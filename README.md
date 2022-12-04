@@ -1,5 +1,8 @@
+<h1 align="center">Retrieve-Mail</h1>
+<p align="center">Retrieve mail and download content/attachment in folder</p>
 <p align="center">
-Retrieve-Mail
+  <img src="https://img.shields.io/maintenance/yes/2022?style=for-the-badge" alt="Maintained">
+  <a href="https://github.com/hsangrento/retrieve-mail/blob/dev/LICENSE"><img src="https://img.shields.io/github/license/hsangrento/retrieve-mail?sanitize=true&style=for-the-badge" alt="License"></a>
 </p>
 
 ---
@@ -24,6 +27,9 @@ If you'll build this project, type it in your console.
 ```bash
 dotnet build
 ```
+
+### Configuration
+For this you need to open the contents of the Program.cs file. You need to enter your e-mail in the "your email" section of the program, and your password or two-factor password in the "password" section.
 
 # License
 
