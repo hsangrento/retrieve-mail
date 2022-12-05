@@ -21,6 +21,14 @@ dotnet new console
 
 Then open in your folder and replace Program.cs in your file with the Program.cs you downloaded.
 
+### Requirements
+
+Just you must install "EAGetMail" package, that's it.
+
+```bash
+dotnet add package EAGetMail
+```
+
 ### Build
 If you'll build this project, type it in your console.
 
