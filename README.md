@@ -8,9 +8,9 @@
 ---
 
 # Project Setup
-⚠️ This project only it only works on MacOS, if you want it to work on Windows, you can develop the project..
+⚠️ This project only it only works on MacOS, if you want it to work on Windows, you can develop the project.
 
-If you do not have a <a href="https://learn.microsoft.com/tr-tr/dotnet/core/install/macos">dotnet</a>, you must download it.
+If you do not have a <a href="https://learn.microsoft.com/tr-tr/dotnet/core/install/macos">dotnet</a>, you must download it..
 
 ### Install
 Firstly, open your terminal and type in.
